@@ -1,5 +1,4 @@
-# 🏏 Hand Cricket Game (Python Console Version)
-
+# 🏏 Hand Cricket Game through console
 ---
 
 ##  **Features**
@@ -44,7 +43,7 @@
 
 ---
 
-## 📦 How to Run
+##  How to Run
 
 Make sure Python 3 is installed on your system.
 
